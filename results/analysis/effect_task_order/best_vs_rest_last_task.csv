@@ -1,0 +1,22 @@
+Dataset,Strategy,Fraction significant last task 0,Fraction significant last task 1,Fraction significant last task 2,Fraction significant last task 3,Fraction significant last task 4
+CIFAR10,ewc,0.043,0.043,0.13,0.348,0.087
+CIFAR10,lwf,0.217,0.0,0.261,0.043,0.13
+CIFAR10,replay,0.565,0.435,0.478,0.348,0.609
+CIFAR10,agem,0.043,0.696,0.087,0.13,0.087
+CIFAR10,mir,0.522,0.478,0.043,0.348,0.043
+CIFAR10,gss,0.478,0.522,0.304,0.435,0.478
+CIFAR10,cope,0.13,0.261,0.478,0.087,0.261
+CIFAR10-random,ewc,0.087,0.391,0.13,0.0,0.087
+CIFAR10-random,lwf,0.0,0.304,0.391,0.261,0.043
+CIFAR10-random,replay,0.087,0.522,0.043,0.391,0.826
+CIFAR10-random,agem,0.043,0.0,0.0,0.652,0.087
+CIFAR10-random,mir,0.087,0.478,0.348,0.304,0.304
+CIFAR10-random,gss,0.304,0.043,0.087,0.174,0.0
+CIFAR10-random,cope,0.043,0.13,0.348,0.043,0.087
+M2I,ewc,0.0,0.261,0.0,0.565,0.043
+M2I,lwf,0.0,0.783,0.391,0.043,0.609
+M2I,replay,0.261,0.478,0.217,0.565,0.739
+M2I,agem,0.087,0.087,0.0,0.0,0.478
+M2I,mir,0.609,0.739,0.043,0.565,0.522
+M2I,gss,0.652,0.435,0.565,0.826,0.783
+M2I,cope,0.783,0.739,0.652,0.304,0.739

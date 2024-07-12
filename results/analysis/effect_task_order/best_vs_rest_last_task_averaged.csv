@@ -1,0 +1,22 @@
+Dataset,Strategy,Fraction significant
+CIFAR10,agem,0.209
+CIFAR10,cope,0.243
+CIFAR10,ewc,0.13
+CIFAR10,gss,0.443
+CIFAR10,lwf,0.13
+CIFAR10,mir,0.287
+CIFAR10,replay,0.487
+CIFAR10-random,agem,0.156
+CIFAR10-random,cope,0.13
+CIFAR10-random,ewc,0.139
+CIFAR10-random,gss,0.122
+CIFAR10-random,lwf,0.2
+CIFAR10-random,mir,0.304
+CIFAR10-random,replay,0.374
+M2I,agem,0.13
+M2I,cope,0.643
+M2I,ewc,0.174
+M2I,gss,0.652
+M2I,lwf,0.365
+M2I,mir,0.496
+M2I,replay,0.452

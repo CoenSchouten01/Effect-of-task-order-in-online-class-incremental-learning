@@ -1,0 +1,22 @@
+Dataset,Strategy,Count significant
+CIFAR10,agem,24
+CIFAR10,cope,28
+CIFAR10,ewc,15
+CIFAR10,gss,51
+CIFAR10,lwf,15
+CIFAR10,mir,33
+CIFAR10,replay,56
+CIFAR10-random,agem,18
+CIFAR10-random,cope,15
+CIFAR10-random,ewc,16
+CIFAR10-random,gss,14
+CIFAR10-random,lwf,23
+CIFAR10-random,mir,35
+CIFAR10-random,replay,43
+M2I,agem,15
+M2I,cope,74
+M2I,ewc,20
+M2I,gss,75
+M2I,lwf,42
+M2I,mir,57
+M2I,replay,52

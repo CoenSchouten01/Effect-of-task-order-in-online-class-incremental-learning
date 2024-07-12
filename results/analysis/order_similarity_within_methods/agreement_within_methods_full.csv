@@ -1,0 +1,22 @@
+Dataset,Strategy,Correlation Coefficient,P-value
+CIFAR10,ewc,0.3,6.46e-149
+CIFAR10,lwf,0.296,7.34e-144
+CIFAR10,replay,0.141,3.62e-33
+CIFAR10,agem,0.33,5.41e-181
+CIFAR10,mir,0.157,1.53e-40
+CIFAR10,gss,0.12,3.22e-24
+CIFAR10,cope,0.088,1.21e-13
+CIFAR10-random,ewc,0.333,3.21e-184
+CIFAR10-random,lwf,0.319,7.53e-169
+CIFAR10-random,replay,0.304,1.65e-152
+CIFAR10-random,agem,0.324,4.09e-174
+CIFAR10-random,mir,0.186,9.38e-57
+CIFAR10-random,gss,0.263,4.56e-113
+CIFAR10-random,cope,0.223,3.29e-81
+M2I,ewc,0.29,1.06e-138
+M2I,lwf,0.29,1.39e-138
+M2I,replay,0.278,9.22e-127
+M2I,agem,0.294,2.62e-142
+M2I,mir,0.295,8.92e-144
+M2I,gss,0.054,5.35e-06
+M2I,cope,0.191,8.18e-60

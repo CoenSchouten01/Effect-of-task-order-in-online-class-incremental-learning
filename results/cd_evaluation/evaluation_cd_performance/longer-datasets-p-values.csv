@@ -1,0 +1,13 @@
+,Dataset,Strategy,OTF-last - Random p-value,OTF-avg - Random p-value
+0,CIFAR100,ER,0.342,0.741
+1,CIFAR100,MIR,0.541,0.604
+2,CIFAR100,GSS,0.008,0.001
+3,CIFAR100,CoPE,0.025,0.028
+4,CIFAR100-superclass,ER,0.048,0.081
+5,CIFAR100-superclass,MIR,0.014,0.052
+6,CIFAR100-superclass,GSS,0.364,0.018
+7,CIFAR100-superclass,CoPE,0.001,0.014
+8,TinyImageNet,ER,0.795,0.61
+9,TinyImageNet,MIR,0.334,0.212
+10,TinyImageNet,GSS,0.461,0.499
+11,TinyImageNet,CoPE,0.002,0.0

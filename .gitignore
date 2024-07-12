@@ -1,0 +1,8 @@
+env
+*.pyc
+.vscode
+datasets
+pdf_cutter.py
+*.pdf
+venv
+notebooks

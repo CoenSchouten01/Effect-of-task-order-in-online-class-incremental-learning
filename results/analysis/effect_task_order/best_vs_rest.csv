@@ -1,0 +1,22 @@
+Dataset,Strategy,Count significant,Fraction significant
+CIFAR10,ewc,95,0.798
+CIFAR10,lwf,85,0.714
+CIFAR10,replay,88,0.739
+CIFAR10,agem,93,0.782
+CIFAR10,mir,68,0.571
+CIFAR10,gss,83,0.697
+CIFAR10,cope,68,0.571
+CIFAR10-random,ewc,95,0.798
+CIFAR10-random,lwf,102,0.857
+CIFAR10-random,replay,82,0.689
+CIFAR10-random,agem,111,0.933
+CIFAR10-random,mir,39,0.328
+CIFAR10-random,gss,75,0.63
+CIFAR10-random,cope,78,0.655
+M2I,ewc,96,0.807
+M2I,lwf,90,0.756
+M2I,replay,70,0.588
+M2I,agem,98,0.824
+M2I,mir,102,0.857
+M2I,gss,87,0.731
+M2I,cope,104,0.874
