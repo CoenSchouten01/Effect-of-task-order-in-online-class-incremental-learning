@@ -6,3 +6,4 @@ pdf_cutter.py
 *.pdf
 venv
 notebooks
+test.py
