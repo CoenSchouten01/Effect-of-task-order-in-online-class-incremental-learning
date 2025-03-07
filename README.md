@@ -1,6 +1,6 @@
 # Master Thesis: Investigating task order in Online Class Incremental Learning
 This is the code repository for the Master's Thesis titled: Investigating task order in Online Class Incremental Learning.
-The complete thesis is available here: *TODO*
+The complete thesis is available [here](https://research.tue.nl/en/studentTheses/investigating-task-order-in-online-class-incremental-learning)
 
 This codebase, just like the thesis itself, contains two components: an analysis and curriculum designer evaluation.
 
